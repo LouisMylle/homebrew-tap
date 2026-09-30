@@ -2,10 +2,10 @@ cask "claudehub" do
   version "1.6.0"
   sha256 "9ca42e245bc4c0e2c7e3ab72337e1d28135bd04f58f425f2ac59f5d6a9927fed"
 
-  url "https://github.com/LouisMylle/ClaudeHub/releases/download/v#{version}/ClaudeHub-#{version}.zip"
+  url "https://github.com/glm-labs/ClaudeHub/releases/download/v#{version}/ClaudeHub-#{version}.zip"
   name "ClaudeHub"
   desc "Browse and resume Claude Code sessions in embedded terminals"
-  homepage "https://github.com/LouisMylle/ClaudeHub"
+  homepage "https://github.com/glm-labs/ClaudeHub"
 
   livecheck do
     url :url
