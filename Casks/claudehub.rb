@@ -1,6 +1,6 @@
 cask "claudehub" do
-  version "1.6.2"
-  sha256 "4e46165435bfbdd9c1a007885257338f372580bdf1f68572d1ab8f1c103f0ade"
+  version "1.6.3"
+  sha256 "f30eea636f8125dc21d8fcbbe9aec34b7f02800645c6baa84a568cf5f2061254"
 
   url "https://github.com/glm-labs/ClaudeHub/releases/download/v#{version}/ClaudeHub-#{version}.zip"
   name "ClaudeHub"
